@@ -1,0 +1,5 @@
+
+![Uploading Graphic_abstact_Final_0907.png…]()
+
+Summary
+Gastric cancer (GC) is one of the most frequent and lethal malignancies in the world. However, our understanding of the mechanisms underlying its initiation and progression is limited. Here, we generated a series of primary GC models in mice with genome-edited gastric organoids, which elucidated the genetic drivers for sequential transformation from dysplasia to well-differentiated and poorly differentiated GC. Further, we found that the orthotopic GC, but not the subcutaneous GC even with the same genetic drivers, displayed remote metastasis, suggesting critical roles of the microenvironment in GC metastasis. Through single-cell RNA-seq analyses and functional studies, we revealed that the molecular interaction between fibronectin 1 on stomach-specific macrophages and integrin a6β4 on GC cells promotes remote metastases. Taken together, our studies proposed a new strategy to model GC and dissected the genetic and microenvironmental factors driving the full-range gastric tumorigenesis.
